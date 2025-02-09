@@ -19,12 +19,14 @@ TODO: will be updated
 **Data Engineer @ Futurice (_Nov 2022 - March 2023_)**
 - I started my career shift from academia to the world of data consultant. Intensive learning, [certifications](#Certifications), and customer work. 
 
-
+**Academy 2006-2022, several positions**
 **Postdoctoral Research Fellow @ Tampere University (_Sep 2018 - Nov 2022_)**
 - Main research areas: **microsystems**, **microfluidics**, **control engineering**, **data analysis**
 - Main tools: **MATLAB**, **Simulink**, **COMSOL (FEM)**, 
 
 **Doctoral Researcher @ Tampere University of Technology (_Sep 2011 - Aug 2018_)**
+
+More about my academic work and full publication list is given [here](https://github.com/AnaHill/academic-portfolio).
 
 
 
@@ -57,11 +59,7 @@ Tools: **Powershell**, **Pandoc**, **LaTeX**, **Markdown**
 
 Do you want to use LaTeX for you (scientific) paper, but struggling when co-authors, such as you supervisor, do not use it, and therefore Word is preferred? This is tool for you! Minimize hasszle of exporting files in different formats and copy-paste text from one format to another, while still be able to write LaTeX-documents and publish high-quality papers.
 
-For example, this paper freely available [here](https://ieeexplore.ieee.org/document/10242335) was written using this tool.
+For example, this paper that is freely available [here](https://ieeexplore.ieee.org/document/10242335) was written using this tool.
 > A. -J. Mäki, J. T. Koivumäki, J. Hyttinen and P. Kallio, "Simulation-Based Study of Control Strategies for Beating of Human Cardiomyocyte Cultures," in IEEE Transactions on Automation Science and Engineering, doi: 10.1109/TASE.2023.3309668.
 
 ![How to write LaTeX documents using Word](/pics/write_latex_documents_with_Word.png)
-
-## Publications
-TODO: will be updated
-> A. -J. Mäki, J. T. Koivumäki, J. Hyttinen and P. Kallio, "Simulation-Based Study of Control Strategies for Beating of Human Cardiomyocyte Cultures," in IEEE Transactions on Automation Science and Engineering, doi: 10.1109/TASE.2023.3309668.
