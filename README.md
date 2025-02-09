@@ -6,16 +6,35 @@
 - `github` | [AnaHill](https://github.com/AnaHill/) |
 
 ## Education
-- Ph.D., Automation | Tampere University (_Aug 2018_)								       		
-- M.S., Automation | Tampere University of Technology (_July 2010_)	 			        		
+- D. Sc. (Tech.), Tampere University of Technology, Aug 2018
+- M. Sc. (Tech.), Tampere University of Technology, July 2010
 
 ## Work Experience
-**Data Engineer @ Solita Oy (_March 2023 - Present_)**
-- lorem
+TODO: will be updated  
+**Data Engineer @ Solita (_March 2023 - Present_)**
+- Building robust and scalable data solutions for customers
+- Main tools and technologies: **Azure**, especially **Data Factory** and **DevOps**, **Databricks**, **PostgreSQL**, **Python**
+- I have also worked with **Snowflake**, **Crosser** and IIoT data, **Docker**, **git**, and write small **Powershell** and **bash** scripts.
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Data Engineer @ Futurice (_Nov 2022 - March 2023_)**
+- I started my career shift from academia to the world of data consultant. Intensive learning, [certifications](#Certifications), and customer work. 
+
+
+**Postdoctoral Research Fellow @ Tampere University (_Sep 2018 - Nov 2022_)**
+- Main research areas: **microsystems**, **microfluidics**, **control engineering**, **data analysis**
+- Main tools: **MATLAB**, **Simulink**, **COMSOL (FEM)**, 
+
+**Doctoral Researcher @ Tampere University of Technology (_Sep 2011 - Aug 2018_)**
+
+
+
+## Certifications
+Full list available in Credly: https://www.credly.com/users/antti-juhana-maki
+- *Nov 2022* Azure -- Azure AI Fundamentals (AI-900)
+- *Nov 2022* Azure -- Azure Data Fundamentals (DP-900)
+- *Nov 2022* Azure -- Azure Fundamentals (AZ-900)
+- *Dec 2022* AWS -- AWS Certified Cloud Practitioner
+- *Oct 2022* Scrum -- Professional Scrum Master I (PSM I)
 
 ## Projects
 
@@ -43,9 +62,6 @@ For example, this paper freely available [here](https://ieeexplore.ieee.org/docu
 
 ![How to write LaTeX documents using Word](/pics/write_latex_documents_with_Word.png)
 
-
-This method was used to write the following publication freely available in this link
-
 ## Publications
-TODO: 
+TODO: will be updated
 > A. -J. Mäki, J. T. Koivumäki, J. Hyttinen and P. Kallio, "Simulation-Based Study of Control Strategies for Beating of Human Cardiomyocyte Cultures," in IEEE Transactions on Automation Science and Engineering, doi: 10.1109/TASE.2023.3309668.
