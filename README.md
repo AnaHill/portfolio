@@ -1,32 +1,60 @@
-# Data Engineer
-**Technical Skills**: Azure, Databricks, Python, SQL, MATLAB, Simulink, COMSOL
+# Data Engineer @Solita, PhD
+Passionate and experienced data guy. Currently, building resilient data solutions for the customers using modern cloud platforms and tools like **Azure** (**ADF** and **DevOps** tools), **Databricks**, **Python**, and **PostgreSQL**.
 
-- `email` | [maki.antti.j@gmail.com](mailto:maki.antti.j@gmail.com) |  
-- `linkedin` | [antti-juhana-maki](https://www.linkedin.com/in/antti-juhana-maki/) |  
-- `github` | [AnaHill](https://github.com/AnaHill/) |
+<div align="center">
+  <a href="mailto:maki.antti.j@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/antti-juhana-maki/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://anahill.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
+  </a>
+</div>
+
+## 🛠️ Languages and Tools
+![my_expertise](pics/bubble_expertise.png)
+
+<br>
+<p align="left">
+<!-- https://github.com/tandpfun/skill-icons#readme -->
+  <img src="https://skillicons.dev/icons?i=azure,postgres" />
+  <img src="https://skillicons.dev/icons?i=python,powershell,bash" />
+  <!-- <img src="https://skillicons.dev/icons?i=azure, adf,databricks,postgres" />
+  <img src="https://skillicons.dev/icons?i=python,sql,spark,powershell,bash" /> -->
+</p>
+<hr>
+
+**Other Skills**: MATLAB, Simulink, COMSOL (FEM), Crosser
 
 ## Education
 - D. Sc. (Tech.), Tampere University of Technology, Aug 2018
 - M. Sc. (Tech.), Tampere University of Technology, July 2010
 
 ## Work Experience
-TODO: will be updated  
-**Data Engineer @ Solita (_March 2023 - Present_)**
+<!-- TODO:  -->
+<span style="color:red">Will be updated soon.</span>
+
+### **Data Engineer [@Solita](https://www.solita.fi/) (_March 2023 - Present_)**
 - Building robust and scalable data solutions for customers
 - Main tools and technologies: **Azure**, especially **Data Factory** and **DevOps**, **Databricks**, **PostgreSQL**, **Python**
 - I have also worked with **Snowflake**, **Crosser** and IIoT data, **Docker**, **git**, and write small **Powershell** and **bash** scripts.
 
-**Data Engineer @ Futurice (_Nov 2022 - March 2023_)**
-- I started my career shift from academia to the world of data consultant. Intensive learning, [certifications](#Certifications), and customer work. 
+### **Data Engineer @ Futurice (_Nov 2022 - March 2023_)**
+- I started my career shift from academia to the world of data consultant. Intensive learning, [certifications](#Certifications), and customer work in retail industry. 
 
-**Academy 2006-2022, several positions**
+### **Academy 2006-2022, several positions**
+For full academic outcomes, see my [academic portfolio](https://anahill.github.io/) <span style="color:red">coming soon</span>.
+
+<!-- More about my academic work and full publication list is given [here](https://github.com/AnaHill/academic-portfolio). -->
+
 **Postdoctoral Research Fellow @ Tampere University (_Sep 2018 - Nov 2022_)**
 - Main research areas: **microsystems**, **microfluidics**, **control engineering**, **data analysis**
 - Main tools: **MATLAB**, **Simulink**, **COMSOL (FEM)**, 
 
 **Doctoral Researcher @ Tampere University of Technology (_Sep 2011 - Aug 2018_)**
 
-More about my academic work and full publication list is given [here](https://github.com/AnaHill/academic-portfolio).
 
 
 
