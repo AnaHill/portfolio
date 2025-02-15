@@ -1,7 +1,9 @@
-# Data Engineer @Solita, PhD
+# Data Engineer [@Solita](https://www.solita.fi/), PhD
 Passionate and experienced data guy. Currently, building resilient data solutions for the customers using modern cloud platforms and tools like **Azure** (**ADF** and **DevOps** tools), **Databricks**, **Python**, and **PostgreSQL**.
 
-<div align="center">
+
+<div align="left">
+  Contact me: 
   <a href="mailto:maki.antti.j@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
