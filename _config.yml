@@ -1,6 +1,7 @@
-title: Antti-Juhana Mäki
-# logo: /pics/photo_ajmaki.png
+title:  A-J Mäki, Data Engineer
 logo: "https://anahill.github.io/pics/headshot_circle_ajm.png"
-#description: text below image
+description: Data Engineer, PhD
 show_downloads: true
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/merlot@v0.2.0
+plugins:
+- jekyll-remote-theme
