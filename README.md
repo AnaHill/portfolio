@@ -78,12 +78,16 @@ Codes and a scientific paper freely available
 Tools: **MATLAB**
 
 <details>
-  <summary> Show more </summary>   
-
-Developed method and tool (_DatAnalyzer_) to analyze field potential (FP) signals from 2D human induced pluripotent stem cells derived cardiomyocyte (hiPSC-CM) cultures. I summarized how FP signals have been analyzed various, sometimes even contradictory, ways in the literature, and proposed my own methdod that could be considered.
-
-![DatAnalyzer in action](/pics/DatAnalyzer.png)
-
+  <summary><strong>Show more</strong></summary>
+  <p>
+    Developed a method and tool (<em>DatAnalyzer</em>) to analyze field potential (FP) signals from 2D human induced pluripotent stem cell-derived cardiomyocyte (hiPSC-CM) cultures.
+  </p>
+  <p>
+    I summarized how FP signals have been analyzed in various—sometimes even contradictory—ways in the literature and proposed my own method that could be considered.
+  </p>
+  <p>
+    <img src="/pics/DatAnalyzer.png" alt="DatAnalyzer in action" style="max-width: 100%; height: auto;">
+  </p>
 </details>
 
 
