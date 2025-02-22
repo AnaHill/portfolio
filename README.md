@@ -1,5 +1,5 @@
-# Data Engineer [@Solita](https://www.solita.fi/), PhD
-Passionate and experienced data guy. Currently, building resilient data solutions for the customers using modern cloud platforms and tools like **Azure** (**ADF** and **DevOps** tools), **Databricks**, **Python**, and **PostgreSQL**.
+<!-- # Data Engineer [@Solita](https://www.solita.fi/), PhD -->
+Passionate and experienced data guy. Currently, working as a Data Engineer [@Solita](https://www.solita.fi/) and building resilient data solutions for the customers using modern cloud platforms and tools like **Azure** (**ADF** and **DevOps** tools), **Databricks**, **Python**, and **PostgreSQL**.
 
 
 <div align="left">
@@ -48,9 +48,8 @@ Passionate and experienced data guy. Currently, building resilient data solution
 - I started my career shift from academia to the world of data consultant. Intensive learning, [certifications](#Certifications), and customer work in retail industry. 
 
 ### **Academy 2006-2022, several positions**
-For full academic outcomes, see my [academic portfolio](https://anahill.github.io/) <span style="color:red">coming soon</span>.
+For full academic outcomes, see my [academic portfolio](https://anahill.github.io/) 
 
-<!-- More about my academic work and full publication list is given [here](https://github.com/AnaHill/academic-portfolio). -->
 
 **Postdoctoral Research Fellow @ Tampere University (_Sep 2018 - Nov 2022_)**
 - Main research areas: **microsystems**, **microfluidics**, **control engineering**, **data analysis**
@@ -62,7 +61,7 @@ For full academic outcomes, see my [academic portfolio](https://anahill.github.i
 
 
 ## Certifications
-Full list available in Credly: https://www.credly.com/users/antti-juhana-maki
+Full list available in [Credly](https://www.credly.com/users/antti-juhana-maki)
 - *Nov 2022* Azure -- Azure AI Fundamentals (AI-900)
 - *Nov 2022* Azure -- Azure Data Fundamentals (DP-900)
 - *Nov 2022* Azure -- Azure Fundamentals (AZ-900)
@@ -72,15 +71,19 @@ Full list available in Credly: https://www.credly.com/users/antti-juhana-maki
 ## Projects
 
 ### DatAnalyzer: The correct way to analyze FP signals
-Codes and scientific paper freely available
+Codes and a scientific paper freely available
 - [DatAnalyzer home page](https://github.com/AnaHill/DatAnalyzer)  
 - Publication _Opinion: The correct way to analyze FP signals_ available in [Zenodo](https://doi.org/10.5281/zenodo.10205591)
 
 Tools: **MATLAB**
 
-Developed method and tool (DatAnalyzer) to analyze field potential (FP) signals from 2D human induced pluripotent stem cells derived cardiomyocyte (hiPSC-CM) cultures. I summarized how FP signals have been analyzed various, sometimes even contradictory, ways in the literature, and proposed my own methdod that could be considered.
+<details>
+  <summary> Show more </summary>   
+
+Developed method and tool (_DatAnalyzer_) to analyze field potential (FP) signals from 2D human induced pluripotent stem cells derived cardiomyocyte (hiPSC-CM) cultures. I summarized how FP signals have been analyzed various, sometimes even contradictory, ways in the literature, and proposed my own methdod that could be considered.
 
 ![DatAnalyzer in action](/pics/DatAnalyzer.png)
+</details>
 
 
 ### Write LaTeX documents together with co-authors that use MS Word
@@ -88,9 +91,14 @@ Project [page](https://github.com/AnaHill/Write-LaTeX-documents-using-Word) expl
 
 Tools: **Powershell**, **Pandoc**, **LaTeX**, **Markdown**
 
+<details>
+  <summary> Show more </summary>   
+
 Do you want to use LaTeX for you (scientific) paper, but struggling when co-authors, such as you supervisor, do not use it, and therefore Word is preferred? This is tool for you! Minimize hasszle of exporting files in different formats and copy-paste text from one format to another, while still be able to write LaTeX-documents and publish high-quality papers.
 
 For example, this paper that is freely available [here](https://ieeexplore.ieee.org/document/10242335) was written using this tool.
 > A. -J. Mäki, J. T. Koivumäki, J. Hyttinen and P. Kallio, "Simulation-Based Study of Control Strategies for Beating of Human Cardiomyocyte Cultures," in IEEE Transactions on Automation Science and Engineering, doi: 10.1109/TASE.2023.3309668.
 
 ![How to write LaTeX documents using Word](/pics/write_latex_documents_with_Word.png)
+
+</details>
