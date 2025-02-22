@@ -92,6 +92,7 @@ Project [page](https://github.com/AnaHill/Write-LaTeX-documents-using-Word) expl
 
 Tools: **Powershell**, **Pandoc**, **LaTeX**, **Markdown**
 
+{% raw %}
 <details>
   <summary><strong>Show more</strong></summary>  
 
@@ -109,3 +110,5 @@ Tools: **Powershell**, **Pandoc**, **LaTeX**, **Markdown**
   ![How to write LaTeX documents using Word](/pics/write_latex_documents_with_Word.png)  
 
 </details>
+{% endraw %}
+
