@@ -93,14 +93,19 @@ Project [page](https://github.com/AnaHill/Write-LaTeX-documents-using-Word) expl
 Tools: **Powershell**, **Pandoc**, **LaTeX**, **Markdown**
 
 <details>
-  <summary> Show more </summary>   
+  <summary><strong>Show more</strong></summary>  
 
-Do you want to use LaTeX for you (scientific) paper, but struggling when co-authors, such as you supervisor, do not use it, and therefore Word is preferred? This is tool for you! Minimize hasszle of exporting files in different formats and copy-paste text from one format to another, while still be able to write LaTeX-documents and publish high-quality papers.
+  Do you want to use LaTeX for your (scientific) paper but struggle because your co-authors, such as your supervisor, prefer Word? This tool is for you!  
 
-For example, this paper that is freely available [here](https://ieeexplore.ieee.org/document/10242335) was written using this tool.
+  Minimize the hassle of exporting files in different formats and copy-pasting text between LaTeX and Word, while still being able to write LaTeX documents and publish high-quality papers.  
 
-> A. -J. Mäki, J. T. Koivumäki, J. Hyttinen and P. Kallio, "Simulation-Based Study of Control Strategies for Beating of Human Cardiomyocyte Cultures," in IEEE Transactions on Automation Science and Engineering, doi: 10.1109/TASE.2023.3309668.
+  For example, this paper, freely available [here](https://ieeexplore.ieee.org/document/10242335), was written using this tool:  
 
-![How to write LaTeX documents using Word](/pics/write_latex_documents_with_Word.png)
+  > **A.-J. Mäki, J. T. Koivumäki, J. Hyttinen, and P. Kallio**  
+  > "Simulation-Based Study of Control Strategies for Beating of Human Cardiomyocyte Cultures,"  
+  > *IEEE Transactions on Automation Science and Engineering*,  
+  > DOI: [10.1109/TASE.2023.3309668](https://doi.org/10.1109/TASE.2023.3309668).  
+
+  ![How to write LaTeX documents using Word](/pics/write_latex_documents_with_Word.png)  
 
 </details>
