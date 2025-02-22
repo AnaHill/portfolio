@@ -92,23 +92,26 @@ Project [page](https://github.com/AnaHill/Write-LaTeX-documents-using-Word) expl
 
 Tools: **Powershell**, **Pandoc**, **LaTeX**, **Markdown**
 
-{% raw %}
 <details>
-  <summary><strong>Show more</strong></summary>  
-
-  Do you want to use LaTeX for your (scientific) paper but struggle because your co-authors, such as your supervisor, prefer Word? This tool is for you!  
-
-  Minimize the hassle of exporting files in different formats and copy-pasting text between LaTeX and Word, while still being able to write LaTeX documents and publish high-quality papers.  
-
-  For example, this paper, freely available [here](https://ieeexplore.ieee.org/document/10242335), was written using this tool:  
-
-  > **A.-J. Mäki, J. T. Koivumäki, J. Hyttinen, and P. Kallio**  
-  > "Simulation-Based Study of Control Strategies for Beating of Human Cardiomyocyte Cultures,"  
-  > *IEEE Transactions on Automation Science and Engineering*,  
-  > DOI: [10.1109/TASE.2023.3309668](https://doi.org/10.1109/TASE.2023.3309668).  
-
-  ![How to write LaTeX documents using Word](/pics/write_latex_documents_with_Word.png)  
-
+  <summary><strong>Show more</strong></summary>
+  <p>
+    Do you want to use LaTeX for your (scientific) paper but struggle because your co-authors, such as your supervisor, prefer Word? This tool is for you!
+  </p>
+  <p>
+    Minimize the hassle of exporting files in different formats and copy-pasting text between LaTeX and Word, while still being able to write LaTeX documents and publish high-quality papers.
+  </p>
+  <p>
+    For example, this paper, freely available 
+    <a href="https://ieeexplore.ieee.org/document/10242335" target="_blank">here</a>, 
+    was written using this tool:
+  </p>
+  <blockquote>
+    <strong>A.-J. Mäki, J. T. Koivumäki, J. Hyttinen, and P. Kallio</strong><br>
+    "Simulation-Based Study of Control Strategies for Beating of Human Cardiomyocyte Cultures,"<br>
+    <em>IEEE Transactions on Automation Science and Engineering</em>,<br>
+    DOI: <a href="https://doi.org/10.1109/TASE.2023.3309668" target="_blank">10.1109/TASE.2023.3309668</a>.
+  </blockquote>
+  <p>
+    <img src="/pics/write_latex_documents_with_Word.png" alt="How to write LaTeX documents using Word" style="max-width: 100%; height: auto;">
+  </p>
 </details>
-{% endraw %}
-
