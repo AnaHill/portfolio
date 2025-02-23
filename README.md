@@ -1,10 +1,8 @@
-<!-- # Data Engineer [@Solita](https://www.solita.fi/), PhD -->
-Passionate and experienced data guy. Currently, working as a Data Engineer [@Solita](https://www.solita.fi/) and building resilient data solutions for the customers using modern cloud platforms and tools like **Azure** (**ADF** and **DevOps** tools), **Databricks**, **Python**, and **PostgreSQL**.
-
+Passionate and experienced data guy. Currently, working as a **Data Engineer [@Solita](https://www.solita.fi/)** and building resilient data solutions for the customers using modern cloud platforms and tools like **Azure** (**ADF** and **DevOps** tools), **Databricks**, **Python**, and **PostgreSQL**.
 
 <div align="left">
   Contact me: 
-
+  </br>
   <a href="mailto:maki.antti.j@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -16,7 +14,8 @@ Passionate and experienced data guy. Currently, working as a Data Engineer [@Sol
   </a>
 </div>
 
-## 🛠️ Languages and Tools
+## 🛠️ Skill & Tools
+<!-- TODO: more text,  -->
 ![my_expertise](pics/bubble_expertise.png)
 
 <br>
@@ -27,7 +26,7 @@ Passionate and experienced data guy. Currently, working as a Data Engineer [@Sol
   <!-- <img src="https://skillicons.dev/icons?i=azure, adf,databricks,postgres" />
   <img src="https://skillicons.dev/icons?i=python,sql,spark,powershell,bash" /> -->
 </p>
-<hr>
+<!-- <hr> -->
 
 **Other Skills**: MATLAB, Simulink, COMSOL (FEM), Crosser
 
@@ -37,31 +36,33 @@ Passionate and experienced data guy. Currently, working as a Data Engineer [@Sol
 
 ## Work Experience
 <!-- TODO:  -->
-<span style="color:red">Will be updated soon.</span>
+<span style="color:red"><strong>⚡ This section will be updated soon!</strong></span>  
+
 
 ### **Data Engineer [@Solita](https://www.solita.fi/) (_March 2023 - Present_)**
 - Building robust and scalable data solutions for customers
 - Main tools and technologies: **Azure**, especially **Data Factory** and **DevOps**, **Databricks**, **PostgreSQL**, **Python**
 - I have also worked with **Snowflake**, **Crosser** and IIoT data, **Docker**, **git**, and write small **Powershell** and **bash** scripts.
 
-### **Data Engineer @ Futurice (_Nov 2022 - March 2023_)**
+### **Data Engineer @Futurice (_Nov 2022 - March 2023_)**
 - I started my career shift from academia to the world of data consultant. Intensive learning, [certifications](#Certifications), and customer work in retail industry. 
 
-### **Academy 2006-2022, several positions**
-For full academic outcomes, see my [academic portfolio](https://anahill.github.io/) 
+### **Academy, several positions, Tampere University (_2006-2022_)**
+For full academic outcomes, see   
+[👉 **👨‍🔬My Academic Portfolio**👈](https://anahill.github.io/academic-portfolio/)
 
-
-**Postdoctoral Research Fellow @ Tampere University (_Sep 2018 - Nov 2022_)**
+**Postdoctoral Research Fellow @Tampere University (_Sep 2018 - Nov 2022_)**
 - Main research areas: **microsystems**, **microfluidics**, **control engineering**, **data analysis**
 - Main tools: **MATLAB**, **Simulink**, **COMSOL (FEM)**, 
 
-**Doctoral Researcher @ Tampere University of Technology (_Sep 2011 - Aug 2018_)**
+**Doctoral Researcher @Tampere University of Technology (_Sep 2011 - Aug 2018_)**
 
 
 
 
 ## Certifications
-Full list available in [Credly](https://www.credly.com/users/antti-juhana-maki)
+Full list available in [Credly](https://www.credly.com/users/antti-juhana-maki).
+- *Feb 2024* Agile Data Engine -- Agile Data Engine for Data Engineers 
 - *Nov 2022* Azure -- Azure AI Fundamentals (AI-900)
 - *Nov 2022* Azure -- Azure Data Fundamentals (DP-900)
 - *Nov 2022* Azure -- Azure Fundamentals (AZ-900)
@@ -71,7 +72,7 @@ Full list available in [Credly](https://www.credly.com/users/antti-juhana-maki)
 ## Projects
 
 ### DatAnalyzer: The correct way to analyze FP signals
-Codes and a scientific paper freely available
+A data analysis tool to study signals, especially field potentials (FPs) from 2D human cardiomyocyte cultures. Codes and a scientific paper freely available
 - [DatAnalyzer home page](https://github.com/AnaHill/DatAnalyzer)  
 - Publication _Opinion: The correct way to analyze FP signals_ available in [Zenodo](https://doi.org/10.5281/zenodo.10205591)
 
